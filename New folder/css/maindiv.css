@@ -7,3 +7,20 @@
     padding-top: 0px;
 }
 
+.profile {
+    background-color: aquamarine;
+    padding-top: 100px;
+}
+
+.hobby {
+    display: flex;
+    justify-content: center;
+}
+.skill {
+    display: flex;
+    justify-content: center;
+}
+ifram {
+    height: 400px;
+    width: auto;
+}
